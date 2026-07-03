@@ -1,6 +1,6 @@
 # My practical layout for 42-key Corne keyboard
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/layout_render.png" width="90%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/layout.png" width="90%">
 </div>
 
 ## Features
