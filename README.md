@@ -9,11 +9,12 @@
 - No tap dance
 - No home row mods
 - Reliable layer mappings for numbers, symbols, and function keys
+- Made with QMK Firmware
 - Colemak keyboard layout (files for QWERTY layout available)
 
 ## Rationale
 I have been using this layout for my Corne v3 for over 4 years, and there was pratically **little to no learning curve** adapting to this from a regular row-staggered keyboard, although I did have a couple years of touch typing before.\
-AltGr is on the main layer because I type in different languages.
+`AltGr` is on the main layer because I type in different languages.
 
 For the **Sym** layer, I included a numpad on the left side and the `-` key on the home row for minimal travel distance. It works really well for TypeRacer texts.\
 The parentheses `{ [ ( ) ] }` are put symmetrically on the right side, and the rest of the `Shift` + (Number) symbols are mapped ergonomically too.
