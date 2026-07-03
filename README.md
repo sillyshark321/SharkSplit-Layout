@@ -1,6 +1,6 @@
 # My practical layout for 42-key Corne keyboard
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/layout_render.png" width="80%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/layout_render.png" width="90%">
 </div>
 
 ## Features
@@ -28,11 +28,12 @@ There are also two convenient macros added for navigating through your browser:
 
 Additionally, the `Print Screen` key is strategically mapped on **Func** + `D` for taking quick screenshots when gaming.
 
-## Watch me type because I'm pretty fast (180 WPM)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/typing_test.png" width="80%">
-</div>
-[**YouTube Link**](https://www.youtube.com/watch?v=AXg2ITo80VI)
+## Watch me type because I'm pretty fast
+<a href="https://www.youtube.com/watch?v=AXg2ITo80VI">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/typing_test.png" width="90%">
+  </div>
+</a>
 
 ## Other links
 Layout render made with [**KLE-Render**](https://kle-render.herokuapp.com/)
